@@ -43,7 +43,7 @@ Bash (Bourne Again Shell) is a Unix shell and command language. It is widely use
 
 ## Variables and Data Types
 
-> [!NOTE]
+> [!WARNING]
 > In Bash, you cannot have spaces arounded '=' sign when assigning
 a value to a variable
 - **Variables**: Store data for later use.
